@@ -73,9 +73,13 @@
 
 3. Install the HTTPSRedirect library from here:
 
-    https://github.com/electronicsguy/HTTPSRedirect
+        https://github.com/electronicsguy/HTTPSRedirect
 
     (click on the green "code" button and "Download ZIP", then unzip the file and move the HTTPSRedirect folder to your library directory)
+    
+    Also install the RTClib from - 
+        
+        https://github.com/adafruit/RTClib
 
 4. Upload code to your ESP8266 module and watch data get published to your sheet!
 
